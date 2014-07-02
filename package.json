@@ -1,0 +1,8 @@
+{
+    "name": "application-name",
+    "version": "0.0.1",
+    "main":"asyncPrac.js",
+    "author":"intelliGrape",
+    "engines" : { "node" : ">=0.10.3 <0.12" },
+    "dependencies":{}
+}
